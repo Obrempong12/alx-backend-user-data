@@ -1,4 +1,5 @@
 ## 0x00. Personal data
+![image](https://github.com/user-attachments/assets/ed45b49d-08a1-4634-b608-5e4eae806edb)
 ---
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
