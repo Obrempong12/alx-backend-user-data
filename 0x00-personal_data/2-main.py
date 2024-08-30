@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main file.
+Main file
 """
 
 hash_password = __import__('encrypt_password').hash_password
