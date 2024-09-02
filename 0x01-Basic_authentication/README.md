@@ -1,4 +1,5 @@
 # 0x01. Basic authentication
+![image](https://github.com/user-attachments/assets/69628b5b-9153-41d3-b7f0-1e25b55de7c1)
 ---
 ## Background Context
 In this project, you will learn what the authentication process means and implement a Basic Authentication on a simple API.
