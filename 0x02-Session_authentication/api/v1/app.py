@@ -59,7 +59,7 @@ def forbidden(_) -> Tuple[Dict, int]:
 
 @app.before_request
 def auth_middleware():
-    """Before request handler."""
+    """Before request handler"""
     if auth is None:
         return None
 
