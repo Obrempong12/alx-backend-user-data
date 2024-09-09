@@ -1,4 +1,5 @@
 # 0x03. User authentication service
+![image](https://github.com/user-attachments/assets/4799bfa4-6f04-4d10-af7e-52685aea6aad)
 ---
 ## Description
 In the industry, you should not implement your own authentication system and use a module or framework that doing it for you (like in Python-Flask: Flask-User). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
