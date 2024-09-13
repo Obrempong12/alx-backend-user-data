@@ -102,7 +102,7 @@ def profile() -> Response:
 
 @app.route("/reset_password", methods=["POST"])
 def get_reset_password_token() -> Tuple[Response, int]:
-    """Get the token for user password reset."""
+    """Get the token for user password reset"""
     success, err_msg = utils.request_body_provided(expected_fields={"email"})
     if not success:
         return jsonify({"message": err_msg}), 400

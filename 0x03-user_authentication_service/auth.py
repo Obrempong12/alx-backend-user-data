@@ -143,7 +143,7 @@ class Auth:
         self._db.update_user(user_id=user_id, session_id=None)
 
     def get_reset_password_token(self, email: str) -> str:
-        """Return the token for user password reset."""
+        """Return the token for user password reset"""
         if not email:
             raise ValueError("email missing")
 
